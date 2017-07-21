@@ -73,7 +73,7 @@ Open sourced under the GPL v3.0 license.
 
 Proudly using BrowserStack.
 
-[![](https://qiniu.viosey.com/img/browserstack_logo.png)](https://www.browserstack.com/)
+[![](https://qiniu.viosey.com/img/config/browserstack_logo.png)](https://www.browserstack.com/)
 
 >**BrowserStack** is a cloud-based cross-browser testing tool that enables developers to test their websites across various browsers on different operating systems and mobile devices, without requiring users to install virtual machines, devices or emulators.
 
